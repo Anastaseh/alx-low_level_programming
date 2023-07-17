@@ -3,9 +3,8 @@
 /**
  * main - entry point 
  *
- *retun: always retun 0
- * 
- /*
+ *retun: always retun 0 
+*/
 int main(void)
 {
 	int n;
