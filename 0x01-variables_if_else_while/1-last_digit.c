@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - entry point 
- *
- *retun: always retun 0 
+* main - entry point 
+*
+* retun: always retun 0 
 */
 int main(void)
 {
